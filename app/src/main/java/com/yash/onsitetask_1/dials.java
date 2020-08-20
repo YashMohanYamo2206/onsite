@@ -55,7 +55,7 @@ public class dials extends View {
 
     public void validate() {
         angle -= Math.PI / 900D;
-        smallAngle -= Math.PI / 54000D;
+        smallAngle -= Math.PI / 27000D;
     }
 
 }
